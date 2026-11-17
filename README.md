@@ -1,6 +1,6 @@
 # Password Keeper API (WorkIndia placement task)
 
-[![License: MIT](https://img.shields.io/github/license/ysskrishna/workindia_placement_iitm)](https://github.com/ysskrishna/workindia_placement_iitm/blob/main/LICENSE) [![Author site](https://img.shields.io/badge/author-ysskrishna.space-informational)](https://ysskrishna.space)
+[![Author site](https://img.shields.io/badge/author-ysskrishna.space-informational)](https://ysskrishna.space)
 
 Workindia 2020 Placement Problem Statement
 
@@ -30,10 +30,6 @@ If you find this project helpful:
 - 🐛 [Report issues](https://github.com/ysskrishna/workindia_placement_iitm/issues)
 - 🔀 Submit pull requests
 - 💝 [Sponsor on GitHub](https://github.com/sponsors/ysskrishna)
-
-## License
-
-MIT © [Y. Siva Sai Krishna](https://github.com/ysskrishna) — see [LICENSE](LICENSE) for details.
 
 ---
 
